@@ -1,6 +1,6 @@
 # PyQt5 Chat Application with Exclusive Voice
 
-![Project Banner](https://github.com/your-username/your-repo-name/blob/main/path/to/banner/image.png)
+
 
 ## Table of Contents
 
@@ -63,7 +63,7 @@ The application follows a **Client-Server** architecture:
 - **Client:** Built with PyQt5, the client handles the user interface, capturing audio input, displaying messages, and managing user interactions.
 - **Server:** Manages multiple client connections, relays messages and audio data between clients, and ensures that only one user can transmit voice at a time.
 
-![Architecture Diagram](https://github.com/your-username/your-repo-name/blob/main/path/to/architecture/diagram.png)
+
 
 ## Prerequisites
 
