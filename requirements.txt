@@ -1,0 +1,10 @@
+# PyQt5 for GUI
+PyQt5==5.15.9
+
+# PyAudio for handling audio input and output
+pyaudio==0.2.11
+
+# Other dependencies often used for network-based Python applications (optional but may be useful)
+requests==2.31.0  # Only if HTTP requests are used in the future
+
+# Base64 encoding is part of Python’s standard library and doesn’t need to be installed separately
