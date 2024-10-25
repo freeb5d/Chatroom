@@ -231,10 +231,9 @@ This project is licensed under the [MIT License](https://github.com/your-usernam
 
 ## Contact
 
-- **Author:** Your Name
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Author:** kaveh T
+
+- **GitHub:** [freeb5d](https://github.com/freeb5d)
 
 ## Acknowledgements
 
