@@ -227,7 +227,7 @@ Please ensure your code adheres to the project's coding standards and includes a
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/your-username/your-repo-name/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/freeb5d/chatroom/blob/main/LICENSE).
 
 ## Contact
 
