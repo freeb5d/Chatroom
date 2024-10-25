@@ -27,7 +27,7 @@
 
 Welcome to the **PyQt5 Chat Application with Exclusive Voice**, a real-time chat platform that seamlessly integrates both text and voice communication. This application ensures that only one user can speak at a time, preventing overlapping audio and fostering organized conversations. Built with Python's PyQt5 for the client and leveraging socket programming for the server, this project offers a robust solution for real-time interactions.
 
-![Chat Interface](https://github.com/your-username/your-repo-name/blob/main/path/to/screenshot/chat_interface.png)
+![Chat Interface](https://github.com/freeb5d/chatroom/blob/main/client.jpg)
 
 ## Features
 
